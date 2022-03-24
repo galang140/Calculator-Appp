@@ -1,0 +1,6 @@
+D:\coba ulang\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.exe.config
+D:\coba ulang\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.exe
+D:\coba ulang\CalculatorConsoleAppp\bin\Debug\CalculatorConsoleAppp.pdb
+D:\coba ulang\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.csprojResolveAssemblyReference.cache
+D:\coba ulang\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.exe
+D:\coba ulang\CalculatorConsoleAppp\obj\Debug\CalculatorConsoleAppp.pdb
